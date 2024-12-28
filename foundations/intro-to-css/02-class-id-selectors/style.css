@@ -8,11 +8,11 @@ p {
     font-size: 36px;
 }
 
-.font_class,
-p {
+.font_class {
     font-size: 24px;
 }
 
 #fourth_element {
     background-color: #B0FF80;
+    font-weight: bold;
 }
